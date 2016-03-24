@@ -1,0 +1,10 @@
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\bin\Debug\F74039025_W4-3.exe.config
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\bin\Debug\F74039025_W4-3.exe
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\bin\Debug\F74039025_W4-3.pdb
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4_3.login.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4_3.Properties.Resources.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4-3.csproj.GenerateResource.Cache
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4-3.exe
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4-3.pdb
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4-3.csprojResolveAssemblyReference.cache
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4_3.Main.resources

@@ -1,0 +1,6 @@
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\bin\Debug\F74039025_W4-3.exe.config
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4-3.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W4-3\F74039025_W4-3\obj\Debug\F74039025_W4-3.pdb
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W4-3\WindowProgramming-Simple_grade_system\bin\Debug\F74039025_W4-3.exe.config
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W4-3\WindowProgramming-Simple_grade_system\obj\Debug\F74039025_W4-3.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_W4-3\WindowProgramming-Simple_grade_system\obj\Debug\F74039025_W4-3.pdb
